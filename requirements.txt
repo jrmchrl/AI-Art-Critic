@@ -1,0 +1,8 @@
+torch
+torchvision
+fastapi
+uvicorn
+PILLOW
+openai
+streamlit
+requests
